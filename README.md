@@ -11,31 +11,13 @@ https://user-images.githubusercontent.com/12413810/141467909-dc9dbade-7226-445c-
 <details>
   <summary>Image 1</summary>
 
-<img src="" alt="Image 1" height="800" width="50%">
+<img src="https://github.com/timi-petre/tic_tac_toe/blob/de5ed0520b42f891568b16f61108e8311f2b31d6/assets/Screenshot_1637525652.png" alt="Image 1" height="800" width="50%">
 
 </details>
 
 <details>
   <summary>Image 2</summary>
 
-   <img src="https://github.com/timi-petre/guess_number/blob/5c5c395cf4bcfa330043d817ad4ec417acba9713/assets/2.png" alt="Image 2" height="800" width="50%">
+   <img src="https://github.com/timi-petre/tic_tac_toe/blob/de5ed0520b42f891568b16f61108e8311f2b31d6/assets/Screenshot_1637525661.png" alt="Image 2" height="800" width="50%">
 
 </details>
-
-
-<details>
-  <summary>Image 3</summary>
-
-   <img src="https://github.com/timi-petre/guess_number/blob/5c5c395cf4bcfa330043d817ad4ec417acba9713/assets/3.png" alt="Image 3" height="800" width="50%">
-
-</details>
-
-
-<details>
-  <summary>Image 4</summary>
-
-   <img src="https://github.com/timi-petre/guess_number/blob/5c5c395cf4bcfa330043d817ad4ec417acba9713/assets/4.png" alt="Image 4" height="800" width="50%">
-
-</details>
-
-  
