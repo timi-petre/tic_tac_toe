@@ -5,7 +5,7 @@ Author : [@timi-petre ](https://github.com/timi-petre)
 
 **Tic Tac Toe** project in Flutter.
 
-https://user-images.githubusercontent.com/12413810/141467909-dc9dbade-7226-445c-907d-dbdcbf180738.mp4
+https://user-images.githubusercontent.com/12413810/142777595-b868dbfb-6852-4d2f-81bb-6b4e93df00ee.mp4
 
 
 <details>
